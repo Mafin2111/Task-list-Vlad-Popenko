@@ -1,2 +1,2 @@
 # Task-list-Vlad-Popenko
-repo and sitory
+Проверочная работа по теме «Работа с GitHub» Попенко Владислав Вячеславович 23ис-41
